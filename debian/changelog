@@ -1,0 +1,12 @@
+ros-kinetic-topic-switch (0.0.1-0xenial) xenial; urgency=high
+
+  * fix depends
+  * update README.md
+  * add README.md
+  * add node_checker_switch
+  * initial commit
+  * Contributors: Masaya Kataoka
+
+ -- Masaya Kataoka <masaya@todo.todo>  Wed, 10 Oct 2018 15:00:00 -0000
+
+

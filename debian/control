@@ -1,0 +1,12 @@
+Source: ros-kinetic-topic-switch
+Section: misc
+Priority: extra
+Maintainer: Masaya Kataoka <masaya@todo.todo>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-ros-type-introspection, ros-kinetic-roscpp, ros-kinetic-rospy, ros-kinetic-topic-tools
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-topic-switch
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-ros-type-introspection, ros-kinetic-roscpp, ros-kinetic-rospy, ros-kinetic-topic-tools
+Description: The topic_switch package
